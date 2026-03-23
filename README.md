@@ -3,9 +3,7 @@
  <img src="https://i.postimg.cc/3Jd0RF1d/Untitled237-20260322224604.png"/>
  </a>
 
- <p align="center">
- ★  caine/jay ,, 15 ,, fictkin  ★
- </p>
+
 
 <p align="center">
 <a href="https://c-ai-ne.straw.page"/>
@@ -22,7 +20,3 @@
 — ata —
 </a>
 
-<p align="center">
-<a href="https://github.com/runningtheshow"/>
-<img src="https://i.postimg.cc/Jhc5q59r/Tumblr-l-77260897926680.gif"/>
-</a>
