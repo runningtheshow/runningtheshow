@@ -18,7 +18,7 @@ please don't copy my ponies nor take any inspo off them ^_^
 
 <p align="center">
 <a href="https://railgun.atabook.org"/>
-— ata —
+— atabook —
 </a>
 
 <p align="center">
